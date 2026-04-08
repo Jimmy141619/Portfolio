@@ -1,0 +1,145 @@
+# A2: Security Concepts in Public Space (Train Station)
+
+## **Overview**
+
+This analysis examines security mechanisms observed in a public train station. Train stations are high-traffic environments that require strong security controls to ensure passenger safety, prevent fare evasion, and reduce the risk of incidents.
+
+---
+
+## Security Measures Identified
+
+### Access Control (Ticket / Card Scanners)
+
+* Entry gates require passengers to scan a valid ticket or transit card.
+
+**Purpose:**
+
+* Prevents unauthorized access to platforms
+* Ensures only paying users enter controlled areas
+
+**Weaknesses:**
+
+* Tailgating (multiple people entering on one scan)
+* Gates can be forced or bypassed in crowded situations
+
+---
+
+### Security Personnel (Transit Guards)
+
+* Security guards are present throughout the station.
+
+**Purpose:**
+
+* Provides active monitoring and rapid response
+* Acts as a deterrent to crime and antisocial behaviour
+
+**Weaknesses:**
+
+* Limited coverage across large or busy stations
+* Effectiveness depends on attention and response time
+
+---
+
+### Platform Safety Markings (No Standing Zones)
+
+* Marked areas near tracks where standing is discouraged or prohibited.
+
+**Purpose:**
+
+* Prevents accidental falls or unsafe behaviour
+* Improves passenger safety during train arrival
+
+**Weaknesses:**
+
+* Relies heavily on user compliance
+* Can be ignored during crowded periods
+
+---
+
+### CCTV Surveillance
+
+* Cameras are installed across platforms, entrances, and waiting areas.
+
+**Purpose:**
+
+* Enables monitoring and recording of activity
+* Assists in incident investigation
+
+**Weaknesses:**
+
+* Not always actively monitored
+* Blind spots may exist
+
+---
+
+### Public Announcement Systems
+
+* Audio systems provide real-time instructions and warnings.
+
+**Purpose:**
+
+* Guides crowd behaviour during normal operation and emergencies
+* Supports incident response and evacuation
+
+**Weaknesses:**
+
+* Messages may be ignored or misunderstood
+* Ineffective in very noisy environments
+
+---
+
+### Emergency Systems (Alarms & Help Points)
+
+* Emergency buttons, alarms, and help points are available.
+
+**Purpose:**
+
+* Allows passengers to quickly report incidents
+* Enables rapid response from authorities
+
+**Weaknesses:**
+
+* May be misused or ignored
+* Requires user initiative
+
+---
+
+### Lighting (Environmental Design)
+
+* Stations are generally well-lit, especially at night.
+
+**Purpose:**
+
+* Improves visibility and reduces opportunities for crime
+* Enhances passenger perception of safety
+
+**Weaknesses:**
+
+* Poor lighting in certain areas can create risk
+* Does not actively prevent incidents
+
+---
+
+## Risk Analysis
+
+Despite multiple security measures, several risks remain:
+
+* Fare evasion through gate bypass or tailgating
+* Overcrowding reducing effectiveness of safety controls
+* Limited active monitoring of CCTV systems
+* Passenger non-compliance with safety markings
+
+---
+
+## Recommendations
+
+* Implement anti-tailgating measures at entry gates 
+* Increase active monitoring of CCTV systems
+* Improve enforcement of platform safety rules
+* Enhance lighting coverage in poorly lit areas
+
+---
+
+## Conclusion
+
+Train stations use a layered security approach combining access control, surveillance, environmental design, and human monitoring. However, many controls rely heavily on user compliance and active enforcement, which can reduce overall effectiveness.
