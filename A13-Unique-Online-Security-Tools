@@ -1,0 +1,93 @@
+# A13: Discover 5 Unique Online Security Tools
+
+## **Overview**
+
+This activity identifies five online security tools used to protect digital systems, networks, and user data. These tools operate over the internet and are essential for maintaining cybersecurity in modern environments.
+
+---
+
+## Security Tools
+
+### 1. Antivirus Software (e.g., Windows Defender)
+
+* Software that detects and removes malicious programs.
+
+**Purpose:**
+
+* Protects systems from malware, viruses, and ransomware
+* Provides real-time threat detection
+
+**Weaknesses:**
+
+* May not detect new or unknown threats (zero-day attacks)
+* Can impact system performance
+
+---
+
+### 2. Firewall (Software-Based)
+
+* Controls incoming and outgoing network traffic.
+
+**Purpose:**
+
+* Prevents unauthorized access to a system
+* Filters potentially harmful network activity
+
+**Weaknesses:**
+
+* Misconfiguration can reduce effectiveness
+* Cannot stop attacks that bypass network controls
+
+---
+
+### 3. Password Manager (e.g., Bitwarden)
+
+* Stores and manages passwords securely.
+
+**Purpose:**
+
+* Encourages strong, unique passwords
+* Reduces risk of password reuse
+
+**Weaknesses:**
+
+* Single point of failure if master password is compromised
+* Requires trust in the software provider
+
+---
+
+### 4. VPN (Virtual Private Network)
+
+* Encrypts internet traffic and hides user location.
+
+**Purpose:**
+
+* Protects data on public networks
+* Enhances privacy and anonymity
+
+**Weaknesses:**
+
+* Trust is placed in the VPN provider
+* May reduce internet speed
+
+---
+
+### 5. Multi-Factor Authentication (MFA)
+
+* Requires multiple forms of verification (e.g., password + code).
+
+**Purpose:**
+
+* Adds an extra layer of security beyond passwords
+* Reduces risk of unauthorized account access
+
+**Weaknesses:**
+
+* Can be inconvenient for users
+* May be bypassed through advanced attacks (e.g., phishing)
+
+---
+
+## Conclusion
+
+Online security tools are essential for protecting digital systems and user data. While they significantly improve security, their effectiveness depends on proper configuration, user behaviour, and integration with other security measures.
