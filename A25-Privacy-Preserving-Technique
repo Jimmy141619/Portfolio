@@ -1,0 +1,89 @@
+# A25: Design and Implement a Privacy-Preserving Technique
+
+## **Overview**
+
+This activity involves designing and implementing a simple privacy-preserving technique. The goal is to reduce exposure of sensitive information by applying basic privacy principles such as data minimisation and secure input handling.
+
+---
+
+## Application: Secure Input Form
+
+* A simple form was created to collect user information while preserving privacy.
+
+---
+
+## Privacy-Preserving Techniques Implemented
+
+### 1. Password Masking
+
+* Sensitive input (e.g., passwords) is hidden using masked input fields.
+
+**Purpose:**
+
+* Prevents others from viewing sensitive data during input
+* Protects user privacy in shared environments
+
+---
+
+### 2. Data Minimisation
+
+* The form only collects necessary information (e.g., name and password).
+* Avoids collecting excessive or sensitive personal data.
+
+**Purpose:**
+
+* Reduces risk of data exposure
+* Limits the impact of potential data breaches
+
+---
+
+## Implementation
+
+* A simple HTML form was created with:
+
+  * Text input for name
+  * Password field with masking enabled
+
+---
+
+## Example Code
+
+```html
+<form>
+  <label>Name:</label>
+  <input type="text" name="name" required><br><br>
+
+  <label>Password:</label>
+  <input type="password" name="password" required><br><br>
+
+  <button type="submit">Submit</button>
+</form>
+```
+
+---
+
+## Security Benefits
+
+* Protects sensitive input from being exposed visually
+* Limits unnecessary data collection
+* Demonstrates basic privacy-by-design principles
+
+---
+
+## Limitations
+
+* Does not encrypt stored data
+* Limited to basic input protection
+* Requires further enhancements for real-world applications
+
+---
+
+## Conclusion
+
+This implementation demonstrates simple but effective privacy-preserving techniques. Even basic measures such as masking and data minimisation can significantly improve user privacy.
+
+---
+
+## Evidence
+
+(Screenshot of implemented form and usage to be added)
