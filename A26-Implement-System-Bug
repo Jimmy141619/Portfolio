@@ -1,0 +1,80 @@
+# A26: Research and Implement a System Bug
+
+## **Overview**
+
+This activity involves researching and implementing a system bug related to input validation. Poor input validation can lead to security vulnerabilities, including injection attacks.
+
+---
+
+## Bug Chosen: Input Validation Vulnerability
+
+* The system does not properly validate user input in a login form.
+* This allows malicious input to be processed incorrectly.
+
+---
+
+## Why It Matters
+
+* Input validation bugs can lead to serious vulnerabilities such as SQL injection
+* Attackers may bypass authentication or manipulate system behaviour
+
+---
+
+## Implementation
+
+A simple login check was created without proper validation.
+
+```python
+username = input("Enter username: ")
+password = input("Enter password: ")
+
+if username == "admin" and password == "password":
+    print("Access granted")
+else:
+    print("Access denied")
+```
+
+---
+
+## Demonstration of the Bug
+
+* If input is not validated, attackers could attempt to inject malicious input such as:
+
+```
+' OR '1'='1
+```
+
+* In real systems connected to databases, this type of input could bypass authentication.
+
+---
+
+## Security Impact
+
+* Unauthorized access to systems
+* Potential exposure of sensitive data
+* Compromise of system integrity
+
+---
+
+## Fix
+
+Input validation and secure query handling must be implemented.
+
+Example improvements:
+
+* Validate and sanitize user input
+* Use parameterized queries in real systems
+
+---
+
+## Conclusion
+
+Input validation bugs are a major source of security vulnerabilities. This example demonstrates how improper handling of user input can lead to serious risks such as injection attacks.
+
+---
+
+## Evidence
+
+* Screenshot of program
+* Example inputs used
+  (To be added)
