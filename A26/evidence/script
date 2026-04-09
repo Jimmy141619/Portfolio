@@ -1,0 +1,22 @@
+# A26: Input Validation Bug Demonstration
+
+username = input("Enter username: ")
+password = input("Enter password: ")
+
+# No validation at all (this is the bug)
+print("\nProcessing login...")
+
+if username == "admin" and password == "password123":
+    print("Access granted")
+else:
+    print("Access denied")
+
+# Show what was entered (unsafe behaviour)
+print("\n[DEBUG] You entered:")
+print("Username:", username)
+print("Password:", password)
+
+
+run in terminal and write Username: ' OR '1'='1
+Password: test
+- The script demonstrates a lack of input validation by accepting and processing any user input without checking its safety or format.
