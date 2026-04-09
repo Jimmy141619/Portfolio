@@ -10,7 +10,6 @@ This activity examines three cybersecurity incidents relevant to Western Austral
 
 ### 1. University of Western Australia (UWA) Data Breach
 
-**Source:** https://www.abc.net.au/news/2025-08-11/university-of-western-australia-uwa-suffers-major-data-breach/105636074
 
 **Summary:**
 
@@ -30,10 +29,6 @@ This activity examines three cybersecurity incidents relevant to Western Austral
 
 ### 2. WA-Based Company Targeted by $30 Million Ransomware Attack
 
-**Sources:**
-https://www.wa.gov.au/government/announcements/major-company-faces-30-million-ransom-demand-cyber-attack
-https://www.perthnow.com.au/news/business/perth-office-of-major-international-company-embroiled-in-hackers-30m-ransomware-attack-ng-b881485050z
-
 **Summary:**
 
 * A major company with operations in Western Australia was targeted by a ransomware attack demanding approximately $30 million.
@@ -52,8 +47,6 @@ https://www.perthnow.com.au/news/business/perth-office-of-major-international-co
 ---
 
 ### 3. Latitude Financial Data Breach (Australia, Impacting WA Residents)
-
-**Source:** https://www.cyber.gov.au/about-us/view-all-content/news/latitude-financial-cyber-incident
 
 **Summary:**
 
