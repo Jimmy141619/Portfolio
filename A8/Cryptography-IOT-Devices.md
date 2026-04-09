@@ -51,4 +51,4 @@ Cryptography is essential in IoT devices to secure communication and protect use
 
 ## Evidence
 
-(Screenshot of smart device settings or app interface to be added)
+Although cryptographic settings are not visible to the user, IoT devices such as Google Home use secure communication protocols (e.g., TLS) to transmit data to cloud services.
